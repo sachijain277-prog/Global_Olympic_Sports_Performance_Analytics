@@ -1,0 +1,724 @@
+year,host_city,season,country_code,country,region,sport,medal,medal_count,data_status
+1992,Barcelona,Summer,AUS,Australia,Oceania,Athletics,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,AUS,Australia,Oceania,Athletics,Silver,2,SYNTHETIC_DEMO
+1992,Barcelona,Summer,AUS,Australia,Oceania,Cycling,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,AUS,Australia,Oceania,Judo,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,AUS,Australia,Oceania,Judo,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,AUS,Australia,Oceania,Judo,Silver,2,SYNTHETIC_DEMO
+1992,Barcelona,Summer,AUS,Australia,Oceania,Shooting,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,AUS,Australia,Oceania,Shooting,Gold,4,SYNTHETIC_DEMO
+1992,Barcelona,Summer,BRA,Brazil,South America,Fencing,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,BRA,Brazil,South America,Fencing,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,BRA,Brazil,South America,Judo,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,BRA,Brazil,South America,Judo,Silver,2,SYNTHETIC_DEMO
+1992,Barcelona,Summer,BRA,Brazil,South America,Wrestling,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,CAN,Canada,North America,Cycling,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,CAN,Canada,North America,Fencing,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,CHN,China,Asia,Athletics,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,CHN,China,Asia,Athletics,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,CHN,China,Asia,Cycling,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,CHN,China,Asia,Weightlifting,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,CHN,China,Asia,Weightlifting,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,ESP,Spain,Europe,Athletics,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,ETH,Ethiopia,Africa,Fencing,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,ETH,Ethiopia,Africa,Shooting,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,FRA,France,Europe,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,FRA,France,Europe,Rowing,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Athletics,Bronze,2,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Athletics,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Cycling,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Shooting,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Swimming,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Swimming,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Wrestling,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GBR,United Kingdom,Europe,Wrestling,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GEO,Georgia,Europe,Rowing,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GER,Germany,Europe,Fencing,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GER,Germany,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GER,Germany,Europe,Gymnastics,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GER,Germany,Europe,Gymnastics,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GER,Germany,Europe,Swimming,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GER,Germany,Europe,Swimming,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,GER,Germany,Europe,Wrestling,Silver,2,SYNTHETIC_DEMO
+1992,Barcelona,Summer,IND,India,Asia,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,JPN,Japan,Asia,Athletics,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,KEN,Kenya,Africa,Athletics,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,NED,Netherlands,Europe,Athletics,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,NED,Netherlands,Europe,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,NED,Netherlands,Europe,Gymnastics,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,NED,Netherlands,Europe,Weightlifting,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,NED,Netherlands,Europe,Weightlifting,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,RUS,Russia,Europe,Judo,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,RUS,Russia,Europe,Judo,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,RUS,Russia,Europe,Swimming,Bronze,4,SYNTHETIC_DEMO
+1992,Barcelona,Summer,RUS,Russia,Europe,Swimming,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,RUS,Russia,Europe,Weightlifting,Bronze,4,SYNTHETIC_DEMO
+1992,Barcelona,Summer,RUS,Russia,Europe,Weightlifting,Silver,2,SYNTHETIC_DEMO
+1992,Barcelona,Summer,RUS,Russia,Europe,Wrestling,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,RUS,Russia,Europe,Wrestling,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,USA,United States,North America,Athletics,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,USA,United States,North America,Athletics,Silver,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,USA,United States,North America,Fencing,Bronze,2,SYNTHETIC_DEMO
+1992,Barcelona,Summer,USA,United States,North America,Fencing,Gold,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,USA,United States,North America,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,USA,United States,North America,Rowing,Bronze,1,SYNTHETIC_DEMO
+1992,Barcelona,Summer,USA,United States,North America,Rowing,Gold,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,CAN,Canada,North America,Snowboarding,Silver,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,CHN,China,Asia,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,CHN,China,Asia,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,CHN,China,Asia,Figure Skating,Gold,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,FRA,France,Europe,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,FRA,France,Europe,Biathlon,Gold,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,FRA,France,Europe,Biathlon,Silver,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,GER,Germany,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,GER,Germany,Europe,Biathlon,Silver,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,GER,Germany,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,GER,Germany,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,ITA,Italy,Europe,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,ITA,Italy,Europe,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,ITA,Italy,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,KOR,South Korea,Asia,Biathlon,Gold,2,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,KOR,South Korea,Asia,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,NED,Netherlands,Europe,Figure Skating,Silver,2,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,NED,Netherlands,Europe,Speed Skating,Silver,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,SVK,Slovakia,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,SVK,Slovakia,Europe,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,SVK,Slovakia,Europe,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,SVK,Slovakia,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,USA,United States,North America,Biathlon,Bronze,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,USA,United States,North America,Snowboarding,Bronze,2,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,USA,United States,North America,Snowboarding,Gold,1,SYNTHETIC_DEMO
+1994,Lillehammer,Winter,USA,United States,North America,Snowboarding,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,AUS,Australia,Oceania,Fencing,Bronze,2,SYNTHETIC_DEMO
+1996,Atlanta,Summer,AUS,Australia,Oceania,Swimming,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,AUS,Australia,Oceania,Swimming,Silver,3,SYNTHETIC_DEMO
+1996,Atlanta,Summer,AUS,Australia,Oceania,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,BRA,Brazil,South America,Shooting,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,BRA,Brazil,South America,Swimming,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,BRA,Brazil,South America,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,CHN,China,Asia,Rowing,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,CHN,China,Asia,Shooting,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,CHN,China,Asia,Shooting,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,CHN,China,Asia,Wrestling,Bronze,2,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GBR,United Kingdom,Europe,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GBR,United Kingdom,Europe,Rowing,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GBR,United Kingdom,Europe,Wrestling,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GBR,United Kingdom,Europe,Wrestling,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GEO,Georgia,Europe,Shooting,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GEO,Georgia,Europe,Swimming,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GER,Germany,Europe,Cycling,Gold,2,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GER,Germany,Europe,Cycling,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GER,Germany,Europe,Rowing,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GER,Germany,Europe,Shooting,Bronze,2,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GER,Germany,Europe,Shooting,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,GER,Germany,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,JPN,Japan,Asia,Rowing,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,JPN,Japan,Asia,Rowing,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,JPN,Japan,Asia,Shooting,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KEN,Kenya,Africa,Rowing,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KEN,Kenya,Africa,Rowing,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KEN,Kenya,Africa,Weightlifting,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KOR,South Korea,Asia,Athletics,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KOR,South Korea,Asia,Athletics,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KOR,South Korea,Asia,Gymnastics,Bronze,3,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KOR,South Korea,Asia,Gymnastics,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KOR,South Korea,Asia,Gymnastics,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,KOR,South Korea,Asia,Judo,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,NED,Netherlands,Europe,Shooting,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,NED,Netherlands,Europe,Swimming,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,NED,Netherlands,Europe,Wrestling,Bronze,2,SYNTHETIC_DEMO
+1996,Atlanta,Summer,RUS,Russia,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,SVK,Slovakia,Europe,Athletics,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,SVK,Slovakia,Europe,Cycling,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,SVK,Slovakia,Europe,Judo,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,SVK,Slovakia,Europe,Weightlifting,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,USA,United States,North America,Cycling,Bronze,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,USA,United States,North America,Fencing,Gold,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,USA,United States,North America,Fencing,Silver,1,SYNTHETIC_DEMO
+1996,Atlanta,Summer,USA,United States,North America,Swimming,Bronze,2,SYNTHETIC_DEMO
+1996,Atlanta,Summer,USA,United States,North America,Swimming,Silver,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,AUS,Australia,Oceania,Biathlon,Bronze,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,AUS,Australia,Oceania,Snowboarding,Bronze,2,SYNTHETIC_DEMO
+1998,Nagano,Winter,AUS,Australia,Oceania,Snowboarding,Silver,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,AUS,Australia,Oceania,Speed Skating,Silver,3,SYNTHETIC_DEMO
+1998,Nagano,Winter,CAN,Canada,North America,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,CAN,Canada,North America,Snowboarding,Gold,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,FRA,France,Europe,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,FRA,France,Europe,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,GBR,United Kingdom,Europe,Alpine Skiing,Gold,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,GBR,United Kingdom,Europe,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,GBR,United Kingdom,Europe,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,GBR,United Kingdom,Europe,Cross-Country Skiing,Silver,2,SYNTHETIC_DEMO
+1998,Nagano,Winter,GER,Germany,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,GER,Germany,Europe,Cross-Country Skiing,Bronze,2,SYNTHETIC_DEMO
+1998,Nagano,Winter,GER,Germany,Europe,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,GER,Germany,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,GER,Germany,Europe,Speed Skating,Gold,2,SYNTHETIC_DEMO
+1998,Nagano,Winter,ITA,Italy,Europe,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,ITA,Italy,Europe,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,JPN,Japan,Asia,Figure Skating,Bronze,2,SYNTHETIC_DEMO
+1998,Nagano,Winter,JPN,Japan,Asia,Figure Skating,Gold,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,KOR,South Korea,Asia,Snowboarding,Gold,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,KOR,South Korea,Asia,Snowboarding,Silver,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,KOR,South Korea,Asia,Speed Skating,Gold,1,SYNTHETIC_DEMO
+1998,Nagano,Winter,KOR,South Korea,Asia,Speed Skating,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,AUS,Australia,Oceania,Fencing,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,AUS,Australia,Oceania,Fencing,Silver,2,SYNTHETIC_DEMO
+2000,Sydney,Summer,AUS,Australia,Oceania,Swimming,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,AUS,Australia,Oceania,Swimming,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,AUS,Australia,Oceania,Swimming,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,AUS,Australia,Oceania,Wrestling,Bronze,2,SYNTHETIC_DEMO
+2000,Sydney,Summer,BRA,Brazil,South America,Rowing,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,CAN,Canada,North America,Wrestling,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,CHN,China,Asia,Athletics,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,CHN,China,Asia,Athletics,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,ESP,Spain,Europe,Weightlifting,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,ETH,Ethiopia,Africa,Shooting,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,ETH,Ethiopia,Africa,Shooting,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,ETH,Ethiopia,Africa,Swimming,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,FRA,France,Europe,Athletics,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,FRA,France,Europe,Judo,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,GBR,United Kingdom,Europe,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,GBR,United Kingdom,Europe,Judo,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,GBR,United Kingdom,Europe,Weightlifting,Bronze,2,SYNTHETIC_DEMO
+2000,Sydney,Summer,GBR,United Kingdom,Europe,Weightlifting,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,GBR,United Kingdom,Europe,Wrestling,Silver,2,SYNTHETIC_DEMO
+2000,Sydney,Summer,GER,Germany,Europe,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,GER,Germany,Europe,Wrestling,Gold,2,SYNTHETIC_DEMO
+2000,Sydney,Summer,GER,Germany,Europe,Wrestling,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,IND,India,Asia,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,IND,India,Asia,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,IND,India,Asia,Judo,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,IND,India,Asia,Rowing,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,ITA,Italy,Europe,Rowing,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,JPN,Japan,Asia,Fencing,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,JPN,Japan,Asia,Swimming,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,JPN,Japan,Asia,Wrestling,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,KEN,Kenya,Africa,Athletics,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,KEN,Kenya,Africa,Athletics,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,KEN,Kenya,Africa,Swimming,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,KEN,Kenya,Africa,Swimming,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,KOR,South Korea,Asia,Athletics,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,KOR,South Korea,Asia,Weightlifting,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,NED,Netherlands,Europe,Wrestling,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,NZL,New Zealand,Oceania,Swimming,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,NZL,New Zealand,Oceania,Weightlifting,Gold,2,SYNTHETIC_DEMO
+2000,Sydney,Summer,RUS,Russia,Europe,Gymnastics,Bronze,2,SYNTHETIC_DEMO
+2000,Sydney,Summer,RUS,Russia,Europe,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,RUS,Russia,Europe,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,RUS,Russia,Europe,Judo,Bronze,2,SYNTHETIC_DEMO
+2000,Sydney,Summer,RUS,Russia,Europe,Shooting,Bronze,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,RUS,Russia,Europe,Swimming,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,RUS,Russia,Europe,Wrestling,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,SVK,Slovakia,Europe,Judo,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,SVK,Slovakia,Europe,Rowing,Silver,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,SVK,Slovakia,Europe,Shooting,Gold,1,SYNTHETIC_DEMO
+2000,Sydney,Summer,USA,United States,North America,Rowing,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,BRA,Brazil,South America,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,BRA,Brazil,South America,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,ESP,Spain,Europe,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,ETH,Ethiopia,Africa,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,ETH,Ethiopia,Africa,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GBR,United Kingdom,Europe,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GBR,United Kingdom,Europe,Cross-Country Skiing,Gold,2,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GBR,United Kingdom,Europe,Snowboarding,Bronze,2,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GBR,United Kingdom,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GER,Germany,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GER,Germany,Europe,Cross-Country Skiing,Bronze,2,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GER,Germany,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GER,Germany,Europe,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GER,Germany,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GER,Germany,Europe,Speed Skating,Gold,2,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,GER,Germany,Europe,Speed Skating,Silver,2,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,JPN,Japan,Asia,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,JPN,Japan,Asia,Speed Skating,Silver,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,RUS,Russia,Europe,Speed Skating,Silver,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,SVK,Slovakia,Europe,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,USA,United States,North America,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,USA,United States,North America,Biathlon,Gold,1,SYNTHETIC_DEMO
+2002,Salt Lake City,Winter,USA,United States,North America,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2004,Athens,Summer,AUS,Australia,Oceania,Fencing,Bronze,5,SYNTHETIC_DEMO
+2004,Athens,Summer,AUS,Australia,Oceania,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,AUS,Australia,Oceania,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,AUS,Australia,Oceania,Weightlifting,Gold,1,SYNTHETIC_DEMO
+2004,Athens,Summer,AUS,Australia,Oceania,Weightlifting,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,BRA,Brazil,South America,Cycling,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,BRA,Brazil,South America,Rowing,Gold,1,SYNTHETIC_DEMO
+2004,Athens,Summer,BRA,Brazil,South America,Shooting,Gold,1,SYNTHETIC_DEMO
+2004,Athens,Summer,CAN,Canada,North America,Judo,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,ESP,Spain,Europe,Shooting,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,ESP,Spain,Europe,Shooting,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,ESP,Spain,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,ESP,Spain,Europe,Swimming,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,GBR,United Kingdom,Europe,Fencing,Bronze,2,SYNTHETIC_DEMO
+2004,Athens,Summer,GBR,United Kingdom,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,GBR,United Kingdom,Europe,Rowing,Bronze,3,SYNTHETIC_DEMO
+2004,Athens,Summer,GBR,United Kingdom,Europe,Rowing,Gold,1,SYNTHETIC_DEMO
+2004,Athens,Summer,GBR,United Kingdom,Europe,Rowing,Silver,3,SYNTHETIC_DEMO
+2004,Athens,Summer,GEO,Georgia,Europe,Athletics,Gold,1,SYNTHETIC_DEMO
+2004,Athens,Summer,IND,India,Asia,Athletics,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,ITA,Italy,Europe,Athletics,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,ITA,Italy,Europe,Shooting,Silver,2,SYNTHETIC_DEMO
+2004,Athens,Summer,JPN,Japan,Asia,Fencing,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,JPN,Japan,Asia,Swimming,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,KEN,Kenya,Africa,Rowing,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,KEN,Kenya,Africa,Shooting,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,KEN,Kenya,Africa,Wrestling,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,KOR,South Korea,Asia,Fencing,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,KOR,South Korea,Asia,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,KOR,South Korea,Asia,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,KOR,South Korea,Asia,Swimming,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,NED,Netherlands,Europe,Athletics,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,NED,Netherlands,Europe,Cycling,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,NED,Netherlands,Europe,Weightlifting,Gold,1,SYNTHETIC_DEMO
+2004,Athens,Summer,NED,Netherlands,Europe,Wrestling,Bronze,2,SYNTHETIC_DEMO
+2004,Athens,Summer,NED,Netherlands,Europe,Wrestling,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,SVK,Slovakia,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2004,Athens,Summer,SVK,Slovakia,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2004,Athens,Summer,SVK,Slovakia,Europe,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,AUS,Australia,Oceania,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,CHN,China,Asia,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,CHN,China,Asia,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,CHN,China,Asia,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,CHN,China,Asia,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2006,Turin,Winter,CHN,China,Asia,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,CHN,China,Asia,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2006,Turin,Winter,CHN,China,Asia,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2006,Turin,Winter,GBR,United Kingdom,Europe,Speed Skating,Silver,2,SYNTHETIC_DEMO
+2006,Turin,Winter,GEO,Georgia,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,GEO,Georgia,Europe,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2006,Turin,Winter,GEO,Georgia,Europe,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2006,Turin,Winter,IND,India,Asia,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,IND,India,Asia,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2006,Turin,Winter,IND,India,Asia,Speed Skating,Gold,1,SYNTHETIC_DEMO
+2006,Turin,Winter,JPN,Japan,Asia,Alpine Skiing,Gold,1,SYNTHETIC_DEMO
+2006,Turin,Winter,JPN,Japan,Asia,Speed Skating,Gold,1,SYNTHETIC_DEMO
+2006,Turin,Winter,KEN,Kenya,Africa,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,AUS,Australia,Oceania,Athletics,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,AUS,Australia,Oceania,Cycling,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,AUS,Australia,Oceania,Judo,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,AUS,Australia,Oceania,Swimming,Bronze,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,AUS,Australia,Oceania,Swimming,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,AUS,Australia,Oceania,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,AUS,Australia,Oceania,Wrestling,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,CHN,China,Asia,Fencing,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,CHN,China,Asia,Shooting,Gold,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,ETH,Ethiopia,Africa,Swimming,Bronze,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,ETH,Ethiopia,Africa,Swimming,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,ETH,Ethiopia,Africa,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,ETH,Ethiopia,Africa,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,FRA,France,Europe,Athletics,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,FRA,France,Europe,Cycling,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,FRA,France,Europe,Fencing,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,FRA,France,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,FRA,France,Europe,Swimming,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GBR,United Kingdom,Europe,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GBR,United Kingdom,Europe,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GBR,United Kingdom,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GBR,United Kingdom,Europe,Swimming,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GBR,United Kingdom,Europe,Swimming,Silver,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,GER,Germany,Europe,Cycling,Bronze,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,GER,Germany,Europe,Fencing,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GER,Germany,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GER,Germany,Europe,Judo,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GER,Germany,Europe,Judo,Gold,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,GER,Germany,Europe,Judo,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,GER,Germany,Europe,Rowing,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,IND,India,Asia,Judo,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,ITA,Italy,Europe,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,ITA,Italy,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,JPN,Japan,Asia,Weightlifting,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,KEN,Kenya,Africa,Swimming,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,KOR,South Korea,Asia,Athletics,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,KOR,South Korea,Asia,Athletics,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,KOR,South Korea,Asia,Fencing,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,KOR,South Korea,Asia,Swimming,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,KOR,South Korea,Asia,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,NED,Netherlands,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,RUS,Russia,Europe,Athletics,Bronze,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,RUS,Russia,Europe,Athletics,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,RUS,Russia,Europe,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Fencing,Bronze,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Judo,Bronze,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Judo,Gold,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Rowing,Silver,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Shooting,Bronze,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Shooting,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Shooting,Silver,2,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Swimming,Gold,1,SYNTHETIC_DEMO
+2008,Beijing,Summer,USA,United States,North America,Swimming,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,AUS,Australia,Oceania,Biathlon,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,AUS,Australia,Oceania,Cross-Country Skiing,Bronze,3,SYNTHETIC_DEMO
+2010,Vancouver,Winter,AUS,Australia,Oceania,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,AUS,Australia,Oceania,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,AUS,Australia,Oceania,Speed Skating,Bronze,2,SYNTHETIC_DEMO
+2010,Vancouver,Winter,AUS,Australia,Oceania,Speed Skating,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CAN,Canada,North America,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CAN,Canada,North America,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CAN,Canada,North America,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CHN,China,Asia,Alpine Skiing,Bronze,4,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CHN,China,Asia,Biathlon,Gold,3,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CHN,China,Asia,Figure Skating,Bronze,2,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CHN,China,Asia,Figure Skating,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CHN,China,Asia,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CHN,China,Asia,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,CHN,China,Asia,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,ETH,Ethiopia,Africa,Cross-Country Skiing,Gold,2,SYNTHETIC_DEMO
+2010,Vancouver,Winter,ETH,Ethiopia,Africa,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,FRA,France,Europe,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,FRA,France,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GEO,Georgia,Europe,Biathlon,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GEO,Georgia,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GER,Germany,Europe,Alpine Skiing,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GER,Germany,Europe,Biathlon,Gold,2,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GER,Germany,Europe,Biathlon,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GER,Germany,Europe,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GER,Germany,Europe,Figure Skating,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GER,Germany,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GER,Germany,Europe,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,GER,Germany,Europe,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,ITA,Italy,Europe,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,ITA,Italy,Europe,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,ITA,Italy,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,KEN,Kenya,Africa,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,KEN,Kenya,Africa,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,KOR,South Korea,Asia,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,NED,Netherlands,Europe,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,NED,Netherlands,Europe,Figure Skating,Silver,2,SYNTHETIC_DEMO
+2010,Vancouver,Winter,NZL,New Zealand,Oceania,Figure Skating,Gold,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,SVK,Slovakia,Europe,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2010,Vancouver,Winter,SVK,Slovakia,Europe,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,AUS,Australia,Oceania,Athletics,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,AUS,Australia,Oceania,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,AUS,Australia,Oceania,Rowing,Bronze,2,SYNTHETIC_DEMO
+2012,London,Summer,AUS,Australia,Oceania,Rowing,Silver,2,SYNTHETIC_DEMO
+2012,London,Summer,AUS,Australia,Oceania,Swimming,Gold,2,SYNTHETIC_DEMO
+2012,London,Summer,AUS,Australia,Oceania,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,BRA,Brazil,South America,Rowing,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,BRA,Brazil,South America,Rowing,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,BRA,Brazil,South America,Shooting,Bronze,2,SYNTHETIC_DEMO
+2012,London,Summer,BRA,Brazil,South America,Shooting,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,CAN,Canada,North America,Judo,Bronze,2,SYNTHETIC_DEMO
+2012,London,Summer,CAN,Canada,North America,Judo,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,CAN,Canada,North America,Judo,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,CHN,China,Asia,Athletics,Bronze,2,SYNTHETIC_DEMO
+2012,London,Summer,CHN,China,Asia,Athletics,Silver,2,SYNTHETIC_DEMO
+2012,London,Summer,ESP,Spain,Europe,Athletics,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,ESP,Spain,Europe,Judo,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,ESP,Spain,Europe,Judo,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,FRA,France,Europe,Rowing,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,FRA,France,Europe,Rowing,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,GBR,United Kingdom,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,GBR,United Kingdom,Europe,Judo,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,GBR,United Kingdom,Europe,Judo,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,GBR,United Kingdom,Europe,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,GEO,Georgia,Europe,Athletics,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,GER,Germany,Europe,Athletics,Bronze,2,SYNTHETIC_DEMO
+2012,London,Summer,GER,Germany,Europe,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,IND,India,Asia,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,IND,India,Asia,Rowing,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,IND,India,Asia,Shooting,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,ITA,Italy,Europe,Shooting,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,ITA,Italy,Europe,Shooting,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,ITA,Italy,Europe,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,JPN,Japan,Asia,Judo,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,JPN,Japan,Asia,Judo,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,KEN,Kenya,Africa,Fencing,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,KEN,Kenya,Africa,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,RUS,Russia,Europe,Athletics,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,SVK,Slovakia,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,SVK,Slovakia,Europe,Rowing,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,SVK,Slovakia,Europe,Rowing,Silver,1,SYNTHETIC_DEMO
+2012,London,Summer,SVK,Slovakia,Europe,Wrestling,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,USA,United States,North America,Athletics,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,USA,United States,North America,Athletics,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,USA,United States,North America,Judo,Bronze,1,SYNTHETIC_DEMO
+2012,London,Summer,USA,United States,North America,Wrestling,Gold,1,SYNTHETIC_DEMO
+2012,London,Summer,USA,United States,North America,Wrestling,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,AUS,Australia,Oceania,Alpine Skiing,Bronze,2,SYNTHETIC_DEMO
+2014,Sochi,Winter,AUS,Australia,Oceania,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,AUS,Australia,Oceania,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,CAN,Canada,North America,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,CAN,Canada,North America,Figure Skating,Bronze,2,SYNTHETIC_DEMO
+2014,Sochi,Winter,CAN,Canada,North America,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,CAN,Canada,North America,Snowboarding,Gold,2,SYNTHETIC_DEMO
+2014,Sochi,Winter,CAN,Canada,North America,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,CAN,Canada,North America,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,ETH,Ethiopia,Africa,Biathlon,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,ETH,Ethiopia,Africa,Biathlon,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,ETH,Ethiopia,Africa,Speed Skating,Silver,2,SYNTHETIC_DEMO
+2014,Sochi,Winter,GBR,United Kingdom,Europe,Alpine Skiing,Bronze,2,SYNTHETIC_DEMO
+2014,Sochi,Winter,GBR,United Kingdom,Europe,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,GBR,United Kingdom,Europe,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,GEO,Georgia,Europe,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,GEO,Georgia,Europe,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,GER,Germany,Europe,Alpine Skiing,Gold,2,SYNTHETIC_DEMO
+2014,Sochi,Winter,GER,Germany,Europe,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,GER,Germany,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,ITA,Italy,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,ITA,Italy,Europe,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,ITA,Italy,Europe,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,ITA,Italy,Europe,Figure Skating,Bronze,2,SYNTHETIC_DEMO
+2014,Sochi,Winter,JPN,Japan,Asia,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,JPN,Japan,Asia,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,JPN,Japan,Asia,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,JPN,Japan,Asia,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,JPN,Japan,Asia,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,KEN,Kenya,Africa,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,KOR,South Korea,Asia,Biathlon,Silver,2,SYNTHETIC_DEMO
+2014,Sochi,Winter,KOR,South Korea,Asia,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,NED,Netherlands,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,NZL,New Zealand,Oceania,Biathlon,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,NZL,New Zealand,Oceania,Figure Skating,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,NZL,New Zealand,Oceania,Speed Skating,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,SVK,Slovakia,Europe,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,SVK,Slovakia,Europe,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2014,Sochi,Winter,SVK,Slovakia,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,AUS,Australia,Oceania,Fencing,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,AUS,Australia,Oceania,Swimming,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,BRA,Brazil,South America,Wrestling,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,CHN,China,Asia,Fencing,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,CHN,China,Asia,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,CHN,China,Asia,Weightlifting,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,ESP,Spain,Europe,Fencing,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,ESP,Spain,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,ESP,Spain,Europe,Shooting,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,ESP,Spain,Europe,Shooting,Silver,2,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,ESP,Spain,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,ETH,Ethiopia,Africa,Cycling,Bronze,2,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,FRA,France,Europe,Athletics,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GBR,United Kingdom,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GBR,United Kingdom,Europe,Swimming,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GEO,Georgia,Europe,Wrestling,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GEO,Georgia,Europe,Wrestling,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GER,Germany,Europe,Cycling,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GER,Germany,Europe,Cycling,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GER,Germany,Europe,Fencing,Bronze,2,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GER,Germany,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,GER,Germany,Europe,Shooting,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,JPN,Japan,Asia,Shooting,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,KEN,Kenya,Africa,Fencing,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,KEN,Kenya,Africa,Fencing,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,KEN,Kenya,Africa,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,KEN,Kenya,Africa,Rowing,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,KOR,South Korea,Asia,Rowing,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,KOR,South Korea,Asia,Swimming,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,KOR,South Korea,Asia,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,NED,Netherlands,Europe,Athletics,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,NED,Netherlands,Europe,Rowing,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,NZL,New Zealand,Oceania,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,RUS,Russia,Europe,Swimming,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,SVK,Slovakia,Europe,Fencing,Bronze,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,SVK,Slovakia,Europe,Fencing,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,SVK,Slovakia,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,USA,United States,North America,Athletics,Gold,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,USA,United States,North America,Judo,Bronze,2,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,USA,United States,North America,Shooting,Bronze,2,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,USA,United States,North America,Swimming,Silver,1,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,USA,United States,North America,Wrestling,Bronze,2,SYNTHETIC_DEMO
+2016,Rio de Janeiro,Summer,USA,United States,North America,Wrestling,Silver,2,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,AUS,Australia,Oceania,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,AUS,Australia,Oceania,Biathlon,Gold,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,AUS,Australia,Oceania,Biathlon,Silver,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,AUS,Australia,Oceania,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,AUS,Australia,Oceania,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,AUS,Australia,Oceania,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,AUS,Australia,Oceania,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,BRA,Brazil,South America,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,BRA,Brazil,South America,Snowboarding,Bronze,2,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,BRA,Brazil,South America,Speed Skating,Gold,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,CAN,Canada,North America,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,CHN,China,Asia,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,CHN,China,Asia,Biathlon,Gold,2,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,CHN,China,Asia,Biathlon,Silver,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,CHN,China,Asia,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,GEO,Georgia,Europe,Speed Skating,Bronze,2,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,JPN,Japan,Asia,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,NED,Netherlands,Europe,Biathlon,Silver,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,USA,United States,North America,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,USA,United States,North America,Alpine Skiing,Gold,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,USA,United States,North America,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2018,PyeongChang,Winter,USA,United States,North America,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,CAN,Canada,North America,Rowing,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,CHN,China,Asia,Cycling,Gold,2,SYNTHETIC_DEMO
+2020,Tokyo,Summer,CHN,China,Asia,Cycling,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,CHN,China,Asia,Shooting,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,CHN,China,Asia,Weightlifting,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,ESP,Spain,Europe,Gymnastics,Gold,2,SYNTHETIC_DEMO
+2020,Tokyo,Summer,ESP,Spain,Europe,Judo,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,ESP,Spain,Europe,Judo,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,ESP,Spain,Europe,Rowing,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,ESP,Spain,Europe,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,FRA,France,Europe,Swimming,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,GBR,United Kingdom,Europe,Athletics,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,GBR,United Kingdom,Europe,Cycling,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,GBR,United Kingdom,Europe,Fencing,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,GBR,United Kingdom,Europe,Fencing,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,IND,India,Asia,Athletics,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,IND,India,Asia,Rowing,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,IND,India,Asia,Rowing,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,IND,India,Asia,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,IND,India,Asia,Wrestling,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,ITA,Italy,Europe,Athletics,Bronze,2,SYNTHETIC_DEMO
+2020,Tokyo,Summer,ITA,Italy,Europe,Shooting,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,ITA,Italy,Europe,Weightlifting,Bronze,2,SYNTHETIC_DEMO
+2020,Tokyo,Summer,JPN,Japan,Asia,Athletics,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,JPN,Japan,Asia,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KEN,Kenya,Africa,Judo,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KEN,Kenya,Africa,Judo,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KOR,South Korea,Asia,Athletics,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KOR,South Korea,Asia,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KOR,South Korea,Asia,Shooting,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KOR,South Korea,Asia,Shooting,Gold,2,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KOR,South Korea,Asia,Swimming,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KOR,South Korea,Asia,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,KOR,South Korea,Asia,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,NED,Netherlands,Europe,Cycling,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,RUS,Russia,Europe,Cycling,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,RUS,Russia,Europe,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,RUS,Russia,Europe,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,RUS,Russia,Europe,Gymnastics,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,RUS,Russia,Europe,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,SVK,Slovakia,Europe,Cycling,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,SVK,Slovakia,Europe,Judo,Silver,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,SVK,Slovakia,Europe,Swimming,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,SVK,Slovakia,Europe,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,USA,United States,North America,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2020,Tokyo,Summer,USA,United States,North America,Wrestling,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,AUS,Australia,Oceania,Biathlon,Bronze,2,SYNTHETIC_DEMO
+2022,Beijing,Winter,AUS,Australia,Oceania,Biathlon,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,AUS,Australia,Oceania,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,AUS,Australia,Oceania,Figure Skating,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,AUS,Australia,Oceania,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,AUS,Australia,Oceania,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,AUS,Australia,Oceania,Speed Skating,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,AUS,Australia,Oceania,Speed Skating,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,BRA,Brazil,South America,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,BRA,Brazil,South America,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,CHN,China,Asia,Alpine Skiing,Bronze,2,SYNTHETIC_DEMO
+2022,Beijing,Winter,CHN,China,Asia,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,CHN,China,Asia,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,CHN,China,Asia,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,CHN,China,Asia,Figure Skating,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ESP,Spain,Europe,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ESP,Spain,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ESP,Spain,Europe,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ESP,Spain,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,GER,Germany,Europe,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,GER,Germany,Europe,Biathlon,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,GER,Germany,Europe,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,GER,Germany,Europe,Figure Skating,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,GER,Germany,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,GER,Germany,Europe,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,IND,India,Asia,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,IND,India,Asia,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ITA,Italy,Europe,Alpine Skiing,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ITA,Italy,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ITA,Italy,Europe,Biathlon,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ITA,Italy,Europe,Speed Skating,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,ITA,Italy,Europe,Speed Skating,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,KEN,Kenya,Africa,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,KEN,Kenya,Africa,Biathlon,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,KEN,Kenya,Africa,Biathlon,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,KEN,Kenya,Africa,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,KEN,Kenya,Africa,Speed Skating,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,RUS,Russia,Europe,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,RUS,Russia,Europe,Snowboarding,Bronze,4,SYNTHETIC_DEMO
+2022,Beijing,Winter,RUS,Russia,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,RUS,Russia,Europe,Speed Skating,Gold,2,SYNTHETIC_DEMO
+2022,Beijing,Winter,SVK,Slovakia,Europe,Alpine Skiing,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,SVK,Slovakia,Europe,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,SVK,Slovakia,Europe,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,SVK,Slovakia,Europe,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,SVK,Slovakia,Europe,Speed Skating,Silver,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,USA,United States,North America,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,USA,United States,North America,Biathlon,Gold,1,SYNTHETIC_DEMO
+2022,Beijing,Winter,USA,United States,North America,Biathlon,Silver,2,SYNTHETIC_DEMO
+2022,Beijing,Winter,USA,United States,North America,Snowboarding,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,AUS,Australia,Oceania,Athletics,Bronze,2,SYNTHETIC_DEMO
+2024,Paris,Summer,AUS,Australia,Oceania,Fencing,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,AUS,Australia,Oceania,Fencing,Gold,1,SYNTHETIC_DEMO
+2024,Paris,Summer,AUS,Australia,Oceania,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,AUS,Australia,Oceania,Judo,Gold,1,SYNTHETIC_DEMO
+2024,Paris,Summer,BRA,Brazil,South America,Judo,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,CHN,China,Asia,Athletics,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,CHN,China,Asia,Weightlifting,Bronze,2,SYNTHETIC_DEMO
+2024,Paris,Summer,CHN,China,Asia,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,CHN,China,Asia,Wrestling,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,ETH,Ethiopia,Africa,Cycling,Gold,1,SYNTHETIC_DEMO
+2024,Paris,Summer,ETH,Ethiopia,Africa,Gymnastics,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,FRA,France,Europe,Rowing,Silver,2,SYNTHETIC_DEMO
+2024,Paris,Summer,FRA,France,Europe,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,FRA,France,Europe,Weightlifting,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,GBR,United Kingdom,Europe,Athletics,Bronze,2,SYNTHETIC_DEMO
+2024,Paris,Summer,GBR,United Kingdom,Europe,Fencing,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,GEO,Georgia,Europe,Rowing,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,GEO,Georgia,Europe,Wrestling,Bronze,2,SYNTHETIC_DEMO
+2024,Paris,Summer,GER,Germany,Europe,Fencing,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,GER,Germany,Europe,Judo,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,GER,Germany,Europe,Swimming,Gold,2,SYNTHETIC_DEMO
+2024,Paris,Summer,IND,India,Asia,Cycling,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,IND,India,Asia,Cycling,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,IND,India,Asia,Judo,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,IND,India,Asia,Swimming,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,ITA,Italy,Europe,Cycling,Gold,1,SYNTHETIC_DEMO
+2024,Paris,Summer,JPN,Japan,Asia,Fencing,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,JPN,Japan,Asia,Swimming,Bronze,2,SYNTHETIC_DEMO
+2024,Paris,Summer,JPN,Japan,Asia,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,JPN,Japan,Asia,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,KEN,Kenya,Africa,Cycling,Gold,1,SYNTHETIC_DEMO
+2024,Paris,Summer,KEN,Kenya,Africa,Shooting,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,KEN,Kenya,Africa,Weightlifting,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,KEN,Kenya,Africa,Weightlifting,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,NZL,New Zealand,Oceania,Shooting,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,RUS,Russia,Europe,Gymnastics,Gold,1,SYNTHETIC_DEMO
+2024,Paris,Summer,RUS,Russia,Europe,Judo,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,RUS,Russia,Europe,Wrestling,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,RUS,Russia,Europe,Wrestling,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,SVK,Slovakia,Europe,Athletics,Bronze,2,SYNTHETIC_DEMO
+2024,Paris,Summer,SVK,Slovakia,Europe,Judo,Gold,1,SYNTHETIC_DEMO
+2024,Paris,Summer,SVK,Slovakia,Europe,Shooting,Bronze,1,SYNTHETIC_DEMO
+2024,Paris,Summer,SVK,Slovakia,Europe,Shooting,Silver,1,SYNTHETIC_DEMO
+2024,Paris,Summer,USA,United States,North America,Fencing,Gold,1,SYNTHETIC_DEMO
+2024,Paris,Summer,USA,United States,North America,Shooting,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,AUS,Australia,Oceania,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,AUS,Australia,Oceania,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,AUS,Australia,Oceania,Cross-Country Skiing,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,AUS,Australia,Oceania,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,AUS,Australia,Oceania,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,AUS,Australia,Oceania,Figure Skating,Gold,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,AUS,Australia,Oceania,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,AUS,Australia,Oceania,Speed Skating,Bronze,2,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CAN,Canada,North America,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CHN,China,Asia,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CHN,China,Asia,Alpine Skiing,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CHN,China,Asia,Biathlon,Gold,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CHN,China,Asia,Snowboarding,Gold,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CHN,China,Asia,Snowboarding,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CHN,China,Asia,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CHN,China,Asia,Speed Skating,Gold,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,CHN,China,Asia,Speed Skating,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,FRA,France,Europe,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Alpine Skiing,Gold,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Biathlon,Gold,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Biathlon,Silver,3,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Cross-Country Skiing,Gold,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Figure Skating,Gold,2,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,GER,Germany,Europe,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,JPN,Japan,Asia,Biathlon,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,KEN,Kenya,Africa,Alpine Skiing,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,KEN,Kenya,Africa,Cross-Country Skiing,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,KOR,South Korea,Asia,Biathlon,Gold,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,KOR,South Korea,Asia,Figure Skating,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,KOR,South Korea,Asia,Figure Skating,Gold,2,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,KOR,South Korea,Asia,Figure Skating,Silver,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,KOR,South Korea,Asia,Speed Skating,Bronze,1,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,RUS,Russia,Europe,Biathlon,Bronze,2,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,RUS,Russia,Europe,Biathlon,Gold,2,SYNTHETIC_DEMO
+2026,Milano Cortina,Winter,RUS,Russia,Europe,Biathlon,Silver,1,SYNTHETIC_DEMO

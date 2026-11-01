@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Olympic Analytics Lab | Overview{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="eyebrow">GLOBAL SPORTS PERFORMANCE · 1992–2026</div>
+  <h1>Every medal tells<br><em>a data story.</em></h1>
+  <p>Explore participation, medal outcomes, sport-level performance and illustrative investment efficiency in one analytics workspace.</p>
+  <div class="hero-note">Dataset mode: <strong>SYNTHETIC DEMO</strong> — replace with verified Olympic datasets for factual reporting.</div>
+</section>
+<section class="kpis">
+  <article><span>Athlete-event entries</span><strong>{{ "{:,}".format(summary.athlete_event_entries) }}</strong></article>
+  <article><span>Countries represented</span><strong>{{ summary.countries }}</strong></article>
+  <article><span>Sports in demo data</span><strong>{{ summary.sports }}</strong></article>
+  <article><span>Medal entries</span><strong>{{ "{:,}".format(summary.medal_entries) }}</strong></article>
+</section>
+<section class="section-head"><div><div class="eyebrow">DASHBOARD 01</div><h2>Performance at a glance</h2></div><span class="tag">Interactive charts</span></section>
+<section class="chart-grid">
+  <article class="chart-card wide"><div class="card-head"><h3>Medal entries over time</h3><span>Summer + Winter</span></div><canvas id="trendChart"></canvas></article>
+  <article class="chart-card"><div class="card-head"><h3>Top countries</h3><span>All demo Games</span></div><canvas id="countryChart"></canvas></article>
+  <article class="chart-card"><div class="card-head"><h3>Sport medal rate</h3><span>Top 10 sports</span></div><canvas id="sportChart"></canvas></article>
+  <article class="chart-card"><div class="card-head"><h3>Regional medal efficiency</h3><span>Medal entries / athlete entries</span></div><canvas id="regionChart"></canvas></article>
+</section>
+<section class="section-head"><div><div class="eyebrow">DASHBOARD 02</div><h2>Investment efficiency explorer</h2><p class="muted">Illustrative demo investment figures only; not actual country budgets.</p></div></section>
+<div class="table-wrap"><table><thead><tr><th>Country</th><th>Year</th><th>Season</th><th>Demo investment (USD millions)</th><th>Medal entries</th><th>Medals / USD million</th></tr></thead><tbody>
+{% for row in investment_rows %}
+  <tr><td>{{ row.country }}</td><td>{{ row.year }}</td><td>{{ row.season }}</td><td>{{ "%.2f"|format(row.sports_investment_usd_millions) }}</td><td>{{ row.total_medals|int }}</td><td>{{ "%.3f"|format(row.medals_per_usd_million) if row.medals_per_usd_million == row.medals_per_usd_million else "—" }}</td></tr>
+{% endfor %}
+</tbody></table></div>
+<section class="insight-box"><div class="eyebrow">HOW TO INTERPRET</div><h2>Efficiency is a question, not a verdict.</h2><p>Medal counts depend on event availability, athlete entries, population, qualification rules, host effects and many other factors. Investment-to-medal ratios alone cannot prove that funding caused performance.</p></section>
+<script>
+const chartDefaults = {responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}}, scales:{x:{grid:{display:false},ticks:{color:'#9ba9bd'}},y:{grid:{color:'rgba(160,180,210,.12)'},ticks:{color:'#9ba9bd'}}}};
+new Chart(document.getElementById('trendChart'), {type:'line',data:{labels:{{ trend_labels|tojson }},datasets:[{data:{{ trend_values|tojson }},borderColor:'#67e8c4',backgroundColor:'rgba(103,232,196,.10)',fill:true,tension:.28,pointRadius:3}]},options:chartDefaults});
+new Chart(document.getElementById('countryChart'), {type:'bar',data:{labels:{{ country_labels|tojson }},datasets:[{data:{{ country_values|tojson }},backgroundColor:'#8aa8ff',borderRadius:5}]},options:{...chartDefaults,indexAxis:'y'}});
+new Chart(document.getElementById('sportChart'), {type:'bar',data:{labels:{{ sport_labels|tojson }},datasets:[{data:{{ sport_values|tojson }},backgroundColor:'#f3b76b',borderRadius:5}]},options:{...chartDefaults,indexAxis:'y'}});
+new Chart(document.getElementById('regionChart'), {type:'doughnut',data:{labels:{{ region_labels|tojson }},datasets:[{data:{{ region_values|tojson }},backgroundColor:['#67e8c4','#8aa8ff','#f3b76b','#ed8ca6','#b8a2ff','#72c7e8']}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom',labels:{color:'#d8e1ef'}}}}});
+</script>
+{% endblock %}

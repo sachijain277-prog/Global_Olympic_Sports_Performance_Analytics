@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Tableau Integration{% endblock %}
+{% block content %}
+<section class="hero compact">
+  <div class="eyebrow">WEB INTEGRATION</div>
+  <h1>Tableau <em>story space.</em></h1>
+  <p>Embed a published Tableau dashboard here. The Flask application works without a Tableau account; this page is a clearly marked integration placeholder until you add your own view URL.</p>
+</section>
+<section class="embed-panel">
+  <h2>Connect your Tableau dashboard</h2>
+  <ol>
+    <li>Build and save your dashboards in Tableau Public or Tableau Desktop.</li>
+    <li>Publish to Tableau Public if your dataset is suitable for public sharing.</li>
+    <li>Copy the share/embed URL from Tableau.</li>
+    <li>Replace the placeholder below with the official embed code from Tableau.</li>
+  </ol>
+  <div class="embed-placeholder">
+    <strong>Tableau view not connected yet</strong>
+    <span>See <code>tableau/README.md</code> for the step-by-step setup.</span>
+  </div>
+</section>
+{% endblock %}
